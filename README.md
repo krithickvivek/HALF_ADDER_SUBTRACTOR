@@ -70,7 +70,6 @@ endmodule
 
 
 **Output/TIMING Waveform**
-![Screenshot 2024-03-19 133157](https://github.com/krithickvivek/HALF_ADDER_SUBTRACTOR/assets/139331296/1eab1e10-cabd-4ef5-b287-5ab3b201ece1)
 ![Screenshot 2024-03-19 133143](https://github.com/krithickvivek/HALF_ADDER_SUBTRACTOR/assets/139331296/f74ba6ab-c754-4997-876b-a0ce5fbf20a7)
 
 **Result:**
